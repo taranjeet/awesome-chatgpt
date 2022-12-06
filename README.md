@@ -73,4 +73,49 @@
 
 ### Data
 
-#### - [Create sql query to generate runway](https://twitter.com/RealKevinYang/status/1598537736662962176)
+#### SQL
+
+- [Create sql query to generate runway](https://twitter.com/RealKevinYang/status/1598537736662962176)
+
+### Fitness
+
+#### Exercise Routine
+
+- [Create exercise routine](https://twitter.com/iamrphy/status/1598355750006685697)
+
+### Grammar
+
+#### Write in a tone
+
+- [Write in sarcastic tone](https://twitter.com/sartcrates/status/1598041898962554881)
+- [Speak in UwU furryspeak](https://twitter.com/hi_frye/status/1598400965656596480)
+
+### Healthcare
+
+#### Advice
+
+- [Answering Healthcare Queries](https://twitter.com/RoxanaDaneshjou/status/1598170660186251264)
+
+#### Home
+
+#### Decoration
+
+- [Bow window decoration ideas](https://twitter.com/DanielZunigaa/status/1598055157056811013)
+
+### Learning
+
+#### Explanation
+
+- [Explain like I am 7](https://twitter.com/8dollars4Elon/status/1598568986307854336)
+
+### Learning Language
+
+#### Spanish
+
+- [Teaching Spanish](https://twitter.com/jwblackwell/status/1598262224652734464)
+
+### Machine Learning
+
+#### Spam Classifier
+
+- [Email Spam Classifier](https://twitter.com/alexplescan/status/1598249611843751936)
