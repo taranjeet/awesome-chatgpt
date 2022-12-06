@@ -2,6 +2,18 @@
 
 ## Prompt & Output
 
+### Assistant
+
+#### Suggestions
+
+- [Asking colleges for PhD](https://twitter.com/Jay5w/status/1598172906458316800)
+
+### Automation
+
+#### Scrpaing
+
+- [How to scrape Linkedin?](https://twitter.com/RealKevinYang/status/1598209108611837952)
+
 ### Content
 
 #### Dialogue
@@ -40,3 +52,25 @@
 - [Write script of Simpsons scene](https://twitter.com/onejasonknight/status/1598080799601225729)
 - [Write script of Friends](https://twitter.com/odedia/status/1598307867139915776)
 - [Write script of Seinfeld scene](https://twitter.com/goodside/status/1598077257498923010)
+
+### Cooking
+
+#### Recipe Generator
+
+- [Suggest dishes given ingredients list](https://twitter.com/jwblackwell/status/1598099403889586176)
+
+### Creativity
+
+#### Imagination
+
+- [What if all months started with a different letter?](https://twitter.com/kundor/status/1598172205552005120)
+
+### Customer Support
+
+#### FAQ
+
+- [Answering Shopify Support Queries](https://twitter.com/mertbio/status/1598407948992417792)
+
+### Data
+
+#### - [Create sql query to generate runway](https://twitter.com/RealKevinYang/status/1598537736662962176)
