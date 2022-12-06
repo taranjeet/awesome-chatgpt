@@ -119,3 +119,75 @@
 #### Spam Classifier
 
 - [Email Spam Classifier](https://twitter.com/alexplescan/status/1598249611843751936)
+
+### Music
+
+#### Piano Piece
+
+- [Piano Piece in Mozart Style](https://twitter.com/bentossell/status/1598417187177463809)
+
+#### Song Lyrics
+
+- [New Song lyrics about cryptographics](https://twitter.com/jsegrave/status/1598800787035103250)
+
+### Programming
+
+#### Code Generation
+
+- [Generate tailwind css given description](https://twitter.com/gabe_ragland/status/1598068207994429441)
+- [iOS app release process](https://twitter.com/KrauseFx/status/1598331848207335425)
+- [How to build neural network using Pytorch](https://twitter.com/int2float/status/1598231775708258304)
+- [Create react component](https://twitter.com/RealKevinYang/status/1598142037454254080)
+
+#### Code Optimization
+
+- [Optimizing code](https://twitter.com/alexplescan/status/1598252480894472193)
+
+#### Code Refactor
+
+- [Refactoring code](https://twitter.com/thekitze/status/1598281027231027200)
+- [Refactor PHP + Jquery app to Next.js + Tailwind](https://twitter.com/thekitze/status/1598414259137880066)
+
+#### Competitive Programming
+
+- [Solving Hackerrank problems](https://twitter.com/xtraBrot/status/1598080603034857472)
+- [Solving Codechef problems](https://twitter.com/taranjeetio/status/1598766864305618944)
+
+#### Conversion Tasks
+
+- [Convert JSONL into JSON array](https://twitter.com/techwraith/status/1598103193460019203)
+
+#### Devops Code
+
+- [Write Kubernetes deployment file](https://twitter.com/PhilipZe9/status/1598302535038644224)
+
+#### Explain Code
+
+- [Explain regular expression](https://twitter.com/jwblackwell/status/1598090447854792705)
+
+#### Find bugs
+
+- [Find bug in the code](https://twitter.com/amasad/status/1598042665375105024)
+
+#### Find Time Complexity
+
+- [Explain programming problems in a particular style](https://twitter.com/goodside/status/1598129631609380864)
+
+#### Generate Exploit
+
+- [Write an exploit for the code](https://twitter.com/h_nu11/status/1598216717507104769)
+
+#### Prompt Writing for Text to Image Models
+
+- [Create prompt for Dalle](https://twitter.com/awhyit/status/1598131440151318528)
+- [Create prompt for Midjourney](https://twitter.com/GuyP/status/1598020781065527296)
+
+### Trick
+
+- [Browsing Internet](https://twitter.com/Carnage4Life/status/1598332648723976193)
+- [Prevent Hallucination](https://twitter.com/firasd/status/1598040225795960832)
+- [Exploiting Buffer Overflow](https://twitter.com/moyix/status/1598081204846489600)
+
+### Text Formatting
+
+- [Format Text ](https://twitter.com/tylerangert/status/1598389757373022210)
