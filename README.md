@@ -1,6 +1,10 @@
 # awesome-chatgpt
 
-## Use Case
+Curating everything around [ChatGPT](https://openai.com/blog/chatgpt/)
+
+## Use Cases
+
+List of all the use cases which can be solved via ChatGPT
 
 ### Assistant
 
