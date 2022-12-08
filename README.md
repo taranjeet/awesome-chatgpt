@@ -48,6 +48,7 @@ List of all the use cases which can be solved via ChatGPT
 ### Data
 
 - [Write SQL query](https://twitter.com/RealKevinYang/status/1598537736662962176)
+- [Build a data warehouse](https://twitter.com/gpttricks/status/1599767115422396422)
 
 ### Exam & Competition
 
