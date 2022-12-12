@@ -58,6 +58,7 @@ List of all the use cases which can be solved via ChatGPT
 - [Generate data points for given values](https://twitter.com/DataChaz/status/1600135609166675968)
 - [Generate SQL queries for grunt work](https://twitter.com/ctrl_/status/1600447236496044035)
 - [Write SQL query](https://twitter.com/RealKevinYang/status/1598537736662962176)
+- [Build a data warehouse](https://twitter.com/gpttricks/status/1599767115422396422)
 
 ### Exam & Competition
 
