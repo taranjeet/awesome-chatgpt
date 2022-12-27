@@ -8,19 +8,21 @@ List of all the use cases which can be solved via ChatGPT
 
 ### Assistant
 
+- [CEO Duties - Agenda for all-hands meeting](https://cookup.ai/u/ceo-duties-agenda-for-all-hands-meeting-sw1ogpjh/)
+- [CEO Duties - Company values to build a culture](https://cookup.ai/u/ceo-duties-company-values-to-build-a-culture-0xbvoqik/)
+- [CEO Duties - How to run an executive meeting](https://cookup.ai/u/ceo-duties-how-to-run-an-executive-meeting-uqzmvjgx/)
 - [College suggestions for PhD](https://twitter.com/Jay5w/status/1598172906458316800)
-- [Help in CEO duties](https://twitter.com/levie/status/1599864785071673344)
 - [Help in Homework](https://twitter.com/Afinetheorem/status/1598081857039781888)
 
 ### Automation
 
-- [Generate code to scrape LinkedIn](https://twitter.com/RealKevinYang/status/1598209108611837952)
+- [Generate code to scrape LinkedIn](https://cookup.ai/u/generate-code-to-scrape-linkedin-bfxkuviu/)
 
 ### Content Creation
 
 - [Explain concept as a poem](https://twitter.com/pararths/status/1598171187578048512)
 - [Explain why a movie/series is popular](https://twitter.com/alexrkonrad/status/1598131530349436928)
-- [Generate catch SEO titles  ](https://twitter.com/tejas3732/status/1599094776292573184)
+- [Generate catchy SEO titles  ](https://cookup.ai/u/generate-catchy-seo-titles-cvmgnvyn/)
 - [Generate mnemonic device for remembering](https://twitter.com/walkdotdv/status/1598140173203623937)
 - [Get your programming queries solved in poetic style](https://twitter.com/gabe_ragland/status/1598137119989698560)
 - [Represent characters from Movie along with their attributes in json format](https://twitter.com/YennieJun/status/1600377800069812226)
@@ -41,22 +43,24 @@ List of all the use cases which can be solved via ChatGPT
 
 ### Cooking
 
-- [Suggest dishes given ingredients list](https://twitter.com/jwblackwell/status/1598099403889586176)
+- [Suggest dishes given ingredients list](https://cookup.ai/u/suggest-dishes-given-ingredients-list-tj94busu/)
+- [Suggest healthy dishes given ingredients list](https://cookup.ai/u/suggest-healhy-dishes-given-ingredients-list-ybo9lnb4/)
 
 ### Creativity & Experiments
 
-- [What if all months started with a different letter?](https://twitter.com/kundor/status/1598172205552005120)
+- [What if all months started with a different letter?](https://cookup.ai/u/what-if-all-months-started-with-a-different-letter-txszs5wj/)
 
 ### Customer Support
 
-- [Answer support queries](https://twitter.com/mertbio/status/1598407948992417792)
+- [Answer Shopify support queries](https://cookup.ai/u/answer-shopify-support-queries-mi9bofl3/)
 - [Generate FAQ](https://twitter.com/emmanuel_2m/status/1601071019132739584)
 
 ### Data
 
 - [Create datasets](https://twitter.com/jrieke/status/1600360314490748928)
 - [Generate data points for given values](https://twitter.com/DataChaz/status/1600135609166675968)
-- [Generate SQL queries for grunt work](https://twitter.com/ctrl_/status/1600447236496044035)
+- [Generate SQL queries for grunt work](https://cookup.ai/u/generate-sql-queries-for-grunt-work-hisdr314/)
+- [Query DEX on Dune with Spark SQL language](https://twitter.com/0xAnyaa/status/1601494765375483910)
 - [Write SQL query](https://twitter.com/RealKevinYang/status/1598537736662962176)
 
 ### Exam & Competition
@@ -69,7 +73,7 @@ List of all the use cases which can be solved via ChatGPT
 ### Fitness
 
 - [Create a weight loss plan, meal plan, grocery list and workout plan](https://twitter.com/anothercohen/status/1599531037570502656)
-- [Generate exercise routine](https://twitter.com/iamrphy/status/1598355750006685697)
+- [Generate exercise routine](https://cookup.ai/u/generate-exercise-routine-xuu2b5r3/)
 
 ### Games
 
@@ -92,9 +96,21 @@ List of all the use cases which can be solved via ChatGPT
 - [Decoration ideas for bow window](https://twitter.com/DanielZunigaa/status/1598055157056811013)
 - [Suggest decoration ideas for room](https://twitter.com/GuyP/status/1598020781065527296)
 
+### Jailbreak / Tricks / Hacks
+
+- [Build a virtual machine and interact with it](https://www.engraved.blog/building-a-virtual-machine-inside/)
+- [Change tone of ChatGPT's response](https://twitter.com/goodside/status/1598760079565590528)
+- [Get URLs in reply in non-English languages](https://twitter.com/heyitsfayez/status/1598568525022760962)
+- [How to browse internet](https://twitter.com/Carnage4Life/status/1598332648723976193)
+- [How to prompt to get opinions on an anything](https://twitter.com/zoink/status/1599281052115034113)
+- [How to render images](https://twitter.com/xf1280/status/1599252728399921152)
+- [Know today's date](https://twitter.com/goodside/status/1598890043975774208)
+- [Render an image](https://twitter.com/xf1280/status/1599264075594469378)
+- [Write python script to generate conversation on topics not allowed normally](https://twitter.com/throwawayyay11/status/1599335926895095808)
+
 ### Learning
 
-- [Explain like I am 7](https://twitter.com/8dollars4Elon/status/1598568986307854336)
+- [Explain like I am 7](https://cookup.ai/u/explain-like-i-am-7-x3jiqmcz/)
 - [Explain like X](https://twitter.com/largelies/status/1598250921301245953)
 - [Teach Spanish](https://twitter.com/jwblackwell/status/1598262224652734464)
 
@@ -111,7 +127,7 @@ List of all the use cases which can be solved via ChatGPT
 
 ### Marketing
 
-- [Write a marketing strategy](https://twitter.com/levie/status/1599648362416205825)
+- [Write a marketing strategy](https://cookup.ai/u/write-a-marketing-strategy-gcxal8bm/)
 
 ### Music
 
@@ -138,8 +154,21 @@ List of all the use cases which can be solved via ChatGPT
 ### Product
 
 - [Create a JIRA ticket](https://twitter.com/DataChaz/status/1600594997098778634)
+- [Create Product Requirement Doc](https://cookup.ai/u/create-product-requirement-doc-brfrjtty/)
 - [Create product roadmap](https://twitter.com/keithpeiris/status/1599796755591483392)
+- [Explain technical things in non technical way](https://twitter.com/taranjeetio/status/1603023727834370052)
 - [How to write design brief?](https://twitter.com/tbroen/status/1598065633329311745)
+- [Write a response to user review](https://cookup.ai/u/write-a-response-to-user-review-9gjywzt9/)
+- [Write acceptance criteria for a user story](https://cookup.ai/u/write-acceptance-criteria-for-a-user-story-ywppyolm/)
+- [Write analytics event for a feature](https://cookup.ai/u/write-analytics-event-for-a-feature-unbxshqd/)
+- [Write feature brief for legal team](https://cookup.ai/u/write-feature-brief-for-legal-team-olf4ql7s/)
+- [Write feature brief for preparing marketing assets](https://cookup.ai/u/write-feature-brief-for-preparing-marketing-assets-zbp9h0kv/)
+- [Write feature performance message](https://cookup.ai/u/write-feature-performance-message-gwvwk1cx/)
+- [Write feedback for team member](https://cookup.ai/u/write-feedback-for-team-member-kpwuk6zv/)
+- [Write press release / announcement message for a feature](https://cookup.ai/u/write-press-release-announcement-message-for-a-f-fknk6gsx/)
+- [Write primary and secondary metrics for a feature](https://cookup.ai/u/write-primary-and-secondary-metrics-for-a-feature-asgrkdwg/)
+- [Write product support documentation for Customer Support team](https://cookup.ai/u/write-product-support-documentation-for-customer-s-yrtbrgir/)
+- [Write release notes for App Store & Play Store](https://cookup.ai/u/write-release-notes-for-app-store-play-store-2sqm7jwg/)
 
 ### Programming
 
@@ -183,20 +212,11 @@ List of all the use cases which can be solved via ChatGPT
 
 ### Startups
 
-- [Create startup idea, write cold email and answer to common VC questions](https://twitter.com/roshanpateI/status/1599809546519601159)
+- [Create startup ideas](https://cookup.ai/u/create-startup-ideas-ygviiuco/)
+- [Write an email to employees to execute faster](https://cookup.ai/u/write-an-email-to-employees-to-execute-faster-zcwqgoz4/)
+- [Write answer to investor questions](https://cookup.ai/u/write-answer-to-investor-questions-3ww3lslw/)
+- [Write cold email to investor](https://cookup.ai/u/write-cold-email-to-investor-i0om6kue/)
 - [Write letters to LPs](https://twitter.com/TheStalwart/status/1598768560540614657)
-
-### Tricks / Hacks
-
-- [Build a virtual machine and interact with it](https://www.engraved.blog/building-a-virtual-machine-inside/)
-- [Change tone of ChatGPT's response](https://twitter.com/goodside/status/1598760079565590528)
-- [Get URLs in reply in non-English languages](https://twitter.com/heyitsfayez/status/1598568525022760962)
-- [How to browse internet](https://twitter.com/Carnage4Life/status/1598332648723976193)
-- [How to prompt to get opinions on an anything](https://twitter.com/zoink/status/1599281052115034113)
-- [How to render images](https://twitter.com/xf1280/status/1599252728399921152)
-- [Know today's date](https://twitter.com/goodside/status/1598890043975774208)
-- [Render an image](https://twitter.com/xf1280/status/1599264075594469378)
-- [Write python script to generate conversation on topics not allowed normally](https://twitter.com/throwawayyay11/status/1599335926895095808)
 
 ### Writing
 
