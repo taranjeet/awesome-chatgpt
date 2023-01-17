@@ -166,6 +166,7 @@ List of all the use cases which can be solved via ChatGPT
 - [Build a virtual machine and interact with it](https://www.engraved.blog/building-a-virtual-machine-inside/)
 - [Change tone of ChatGPT's response](https://twitter.com/goodside/status/1598760079565590528)
 - [Get URLs in reply in non-English languages](https://twitter.com/heyitsfayez/status/1598568525022760962)
+- [Make ChatGPT speak and listen using Speech APIs (TeamperMonkey)](https://gist.github.com/kesor/fc0d1a9b285011b74670109f22a59670)
 - [How to browse internet](https://twitter.com/Carnage4Life/status/1598332648723976193)
 - [How to prompt to get opinions on an anything](https://twitter.com/zoink/status/1599281052115034113)
 - [How to render images](https://twitter.com/xf1280/status/1599252728399921152)
